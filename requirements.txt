@@ -1,6 +1,0 @@
-Flask
-numpy
-opencv-python-headless  # Use headless version to avoid GUI issues
-tensorflow
-keras # If separate
-gunicorn # Production server (required for deployment platforms)
